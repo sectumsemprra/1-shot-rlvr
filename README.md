@@ -91,9 +91,7 @@ Please refer to the original [One-Shot-RLVR repository](https://github.com/ypwan
 
 If you use this evaluation code or the original One-Shot-RLVR model, please cite the original work:
 
-```bibtex
-[Add citation from the original repository if available]
-```
+
 
 ## Contact
 
